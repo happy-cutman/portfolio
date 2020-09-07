@@ -1,0 +1,115 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #DCDFE0;
+    padding-bottom: 10px;
+}
+
+.wrapperDark {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #555555;
+    padding-bottom: 10px;
+}
+
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.aboutDark {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    color: #464646;
+}
+
+.textDark {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    color: #EEEEEE;
+}
+
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #464646;
+}
+
+.titleDark {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #EEEEEE;
+}
+
+.toggleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.sunIcon {
+    color: orange;
+}
+
+.sunIconDark {
+    color: #999999;
+}
+
+.moonIconDark {
+    color: #61AFEF;
+}
+
+.moonIcon {
+    color: #999999;
+}
+
+.languageContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.planetIcon {
+    color: #999999
+}
+
+.planetIconDark {
+    color: #999999;
+}
+
+.language {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    color: #464646;
+}
+
+.languageDark {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    color: #EEEEEE;
+}
+
+

@@ -1,0 +1,44 @@
+.container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #464646;
+}
+
+.titleDark {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #EEEEEE;
+}
+
+
+li {
+    color: #464646;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.ulItem {
+    color: #EEEEEE;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+ul a{
+    font-weight: bold;
+}
+
+.link {
+    color: #61AFEF;
+}

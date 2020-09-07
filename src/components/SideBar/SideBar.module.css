@@ -1,0 +1,70 @@
+.container {
+    padding: 20px;
+}
+
+.sideBarItem {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #DCDFE0;
+}
+
+.sideBarItemDark {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #555555;
+}
+
+.money {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.moneyDark {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    color: #EEEEEE;
+}
+
+
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #464646;
+}
+
+.titleDark {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #EEEEEE;
+}
+
+.text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    color: #999999;
+}
+
+
+.experienceTime {
+    color: #464646;
+}
+
+.experienceTimeDark {
+    color: #EEEEEE;
+}
