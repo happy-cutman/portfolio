@@ -11,5 +11,5 @@ export default makeStyles({
     },
     darkMode: {
         background: 'linear-gradient(to bottom, #243B55, #141E30)'
-    }
+    },
 });

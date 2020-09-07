@@ -20,12 +20,12 @@ const App = () => {
         <div className={styles.container}>
             <Grid container spacing={1} justify='center'>
                 <Grid item lg={3} md={4} sm={4} xs={12}>
-                    <Paper elevation={5} className={darkMode ? styles.darkMode : null}>
+                    <Paper style={{height: '100%'}} elevation={5} className={darkMode ? styles.darkMode : null}>
                         <SideBar dark={darkMode} local={local}/>
                     </Paper>
                 </Grid>
                 <Grid item lg={8} md={8} sm={8} xs={12}>
-                    <Paper elevation={5} className={darkMode ? styles.darkMode : null}>
+                    <Paper style={{height: '100%'}} elevation={5} className={darkMode ? styles.darkMode : null}>
                         <Main dark={darkMode}
                               toggleDark={setDarkMode}
                               local={local}
